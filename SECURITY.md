@@ -12,3 +12,9 @@ please review the latest guidance for Microsoft repositories at
 [https://aka.ms/SECURITY.md](https://aka.ms/SECURITY.md).
 
 <!-- END MICROSOFT SECURITY.MD BLOCK -->
+
+---
+
+> **Personal fork note:** This is a personal fork for learning purposes. If you
+> somehow stumble upon a security issue in my fork specifically, feel free to open
+> a regular GitHub issue since this is not a production project.
