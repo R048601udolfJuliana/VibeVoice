@@ -3,6 +3,8 @@
 Thank you for your interest in **VibeVoice**. VibeVoice is an academic-oriented research project.  
 Our core principles are **code minimalism**, **high readability**, and **functional purity**.
 
+> **Personal fork note:** I'm using this fork for learning purposes. I may occasionally relax some of the stricter contribution rules below for my own experimentation.
+
 ## 1. Preferred Contributions
 
 - **Bug Fixes & New Features**  
