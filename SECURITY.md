@@ -19,5 +19,8 @@ please review the latest guidance for Microsoft repositories at
 > somehow stumble upon a security issue in my fork specifically, feel free to open
 > a regular GitHub issue since this is not a production project.
 >
-> Last updated: 2025-01 — experimenting with voice pipeline internals. No sensitive
+> Last updated: 2025-04 — experimenting with voice pipeline internals. No sensitive
 > data or credentials are stored in this repository.
+>
+> Note to self: double-check that any local `.env` files are listed in `.gitignore`
+> before committing, especially when testing with API keys for speech backends.
