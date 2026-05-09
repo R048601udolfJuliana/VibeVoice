@@ -18,3 +18,6 @@ please review the latest guidance for Microsoft repositories at
 > **Personal fork note:** This is a personal fork for learning purposes. If you
 > somehow stumble upon a security issue in my fork specifically, feel free to open
 > a regular GitHub issue since this is not a production project.
+>
+> Last updated: 2025-01 — experimenting with voice pipeline internals. No sensitive
+> data or credentials are stored in this repository.
